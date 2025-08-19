@@ -1,0 +1,11 @@
+Timestamp,Robot_ID,Task_Assigned,Obstacle_Encountered,Tasks_Completed,Battery_Level_%,Distance_Covered_m,Status
+2025-05-27 10:00:00,Robot1,Explore,1,1,90,15,Active
+2025-05-27 10:01:00,Robot2,Clear,0,1,85,12,Active
+2025-05-27 10:02:00,Robot1,Explore,1,2,88,20,Active
+2025-05-27 10:03:00,Robot3,Explore,0,1,92,18,Idle
+2025-05-27 10:04:00,Robot2,Clear,0,2,80,14,Active
+2025-05-27 10:05:00,Robot1,Explore,1,3,75,22,Active
+2025-05-27 10:06:00,Robot3,Clear,0,1,70,19,Idle
+2025-05-27 10:07:00,Robot2,Clear,1,3,65,17,Active
+2025-05-27 10:08:00,Robot1,Explore,0,4,60,25,Active
+2025-05-27 10:09:00,Robot3,Explore,0,2,55,21,Idle
